@@ -1,0 +1,30 @@
+{
+    "name": "Wood060",
+    "id": "Wood060",
+    "scraper": "AmbientCgScraper",
+    "fetchUrl": "https://ambientcg.com/view?id=Wood060",
+    "thumbnail": "thumb.png",
+    "variants": [
+        "1K-JPG",
+        "2K-JPG",
+        "4K-JPG",
+        "8K-JPG",
+        "1K-PNG",
+        "2K-PNG",
+        "4K-PNG",
+        "8K-PNG"
+    ],
+    "custom": {
+        "variants_urls": [
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Wood060_6gdom70n/Wood060_1K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Wood060_6gdom70n/Wood060_2K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Wood060_6gdom70n/Wood060_4K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Wood060_6gdom70n/Wood060_8K-JPG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Wood060_6gdom70n/Wood060_1K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Wood060_6gdom70n/Wood060_2K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Wood060_6gdom70n/Wood060_4K-PNG.zip",
+            "https://cdn3.struffelproductions.com/file/ambientCG/download/Wood060_6gdom70n/Wood060_8K-PNG.zip"
+        ],
+        "thumbnail_url": "https://cdn3.struffelproductions.com/file/ambientCG/media/sphere/512-PNG/Wood060_PREVIEW.png"
+    }
+}
